@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  background-image: url(https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2021/11/yellow-g47f3ed2c6_1280-1-1024x576.webp);
+}
+
+
+h1{
+    text-align: center;
+    font-size: 4pc;
+}
+
+
+
+div{
+    text-align: center;
+    font-size: 2pc;
+}
+
+input{
+    font-size: 25px;
+}
